@@ -2,10 +2,8 @@
 layout: page
 title: About Me
 permalink: /about/
+image: images/zz
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+I'm Finance Graduate Interested In Machine Learning application in Finance 
+On this blog page I publish frequently my personal projects I've worked on 
